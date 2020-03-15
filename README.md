@@ -2,6 +2,7 @@
 Thesis on image-processing with Neural Networks.
 
 Normalisierende Datenkompression mit symmetrischen Neuronalen Netzen
+
 Informationsoptimale Kompression gestörter Daten
 
 Scientific theories deal with concepts, not with reality. All theoretical results are derived from certain axioms by

@@ -9,4 +9,5 @@ Scientific theories deal with concepts, not with reality. All theoretical result
 deductive logic. In physical sciences the theories are so formulated as to correspond in some useful sense to the
 real world, whatever that may mean. However, this correspondence is approximate, and the physical
 justification of all theoretical conclusions is based on some form of inductive reasoning.
+
 Athanasios Papoulis
